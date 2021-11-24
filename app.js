@@ -35,7 +35,7 @@ document.onreadystatechange = () => {
           <img class="dogImage" src="https://randomuser.me/api/portraits/men/${((rows_index*numcolumns)+column_index)%100}.jpg" alt="" srcset="">
           <br>
           <span>
-            clicked this dog
+            clicked this men
             <span class="dogCounter">
               0
             </span>
